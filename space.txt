@@ -1,0 +1,34 @@
+The mystery of Dark Matter endures. Despite sixty years of observation and research, scientists still haven't isolated the particle that accounts for roughly 85% of the Universe's mass. However, ongoing experiments and studies have provided insight into how this mysterious mass works. For instance, a research team led by a member of the Tokyo Metropolitan University relied on a new technique that has set new limits on the lifetime of Dark Matter (DM), bringing scientists a step closer to resolving this cosmological mystery.
+
+The research was led by Wen Yin, an Associate Professor at the Tokyo Metropolitan University and Tohoku University. She was joined by researchers from the Laboratory of Infrared High-resolution Spectroscopy at Kyoto Sangyo University Motoyama, National Astronomical Observatory of Japan (NAOJ), University of Tokyo, PhotoCross Co. Ltd., and the Department of Astrophysics and Atmospheric Sciences at Kyoto Sangyo University. The paper describing their findings was recently published in Physical Review Letters.
+
+The mystery of Dark Matter emerges from Einstein's Theory of General Relativity (GR), which predicts how mass alters the curvature of spacetime. However, when observing distant galaxies, astronomers noted that their rotational curves were inconsistent with their observed mass. Since GR has been confirmed countless times over the past century, astronomers theorized that there must be extra mass in the cosmos that cannot be seen in visible light.
+
+
+From this, the theory of Dark Matter (DM) emerged, which describes a hypothetical mass that only interacts with "normal matter" via gravity and not electroweak forces. The search for Dark Matter is complicated because scientists have no clear idea of what to look for. However, several promising candidates have emerged over time, including weakly interacting massive particles (WIMPs) and axion-like particles (ALP). In addition, researchers have used a combination of models and observations in recent years to constrain the properties of DM.
+
+This includes a new spectrographic technique employed by a team led by Professor Yin, which allowed them to observe light from two dwarf galaxies (Leo V and Tucana II) using the 6.5-m-wide Magellan Clay Telescope in Chile. Their investigation focused on ALPs and considered how they decay and spontaneously emit light in the near-infrared part of the spectrum - as theoretical models predict. This presented challenges since this part of the spectrum is subject to many sources of noise and interference, including zodiacal light, the scattering of light by interstellar dust, and atmospheric interference.
+
+In a previous study, Yin and her colleagues proposed a new technique that focuses on a specific decay process that produces radiation in a narrow range. The team tested this technique using the Warm INfrared Echelle spectrograph to Realize Extreme Dispersion and sensitivity (WINERED) on the Magellan Clay Telescope. Using this state-of-the-art instrument, the team could accurately account for all the near-infrared light they detected from Leo V and Tucana II.
+
+Their results found no decay, which they used to set upper limits on the frequency of these decay events or a lower bound on the lifetime of ALPs - ten to a hundred million times the age of the Universe. This represents the most stringent limit to date for the lifetime of DM, though their results offer hints of "excesses" that present tantalizing prospects for future investigations. The search for the elusive Dark Matter continues, and the field is narrowing!
+
+Let’s face it: Space is a hostile environment for humans. Even on Mars, settlers might have a hard time coping with potentially lethal levels of radiation, scarce resources and reduced gravity.
+
+In “Mickey 17” — a new sci-fi movie from Bong Joon Ho, the South Korean filmmaker who made his mark with “Parasite” — an expendable space traveler named Mickey (Robert Pattinson) is exposed over and over again to deadly risks. And every time he’s killed, the lab’s 3D printer just churns out another copy of Mickey.
+
+“He’s dying to save mankind,” the movie’s poster proclaims.
+
+While it’s possibly to create 3D-printed body parts for implantation, the idea of printing out a complete human body and restoring its backed-up memories is pure science fiction. Nevertheless, Christopher Mason, a Cornell University biomedical researcher who studies space-related health issues, is intrigued by the movie’s premise.
+
+“If you could 3D print a body and perfectly reconstruct it, you could, in theory, learn a lot about a body that’s put in a more dangerous situation,” he says in the latest episode of the Fiction Science podcast. “I think the concept of the movie is actually quite interesting.”
+
+Mason explores the ways in which the human body can be optimized for living in space in a book titled “The Next 500 Years: Engineering Life to Reach New Worlds.” He argues that it’s up to us humans to ensure the long-term future of life in the universe by taking the tools of evolution into our own hands.
+
+Even if we’re able to avoid blowing ourselves up, or succumbing to the effects of climate change, we have only about a billion years before the sun reaches a level of activity that would make Earth unlivable.
+
+“I want to think about preserving life, which necessitates us going to other planets and eventually other stars,” Mason says. “Because humans are the only species with an awareness of extinction, this gives us a unique duty toward life … what I call a deontogenic sort of principle, the genetic duty toward all life.”
+
+“For example, tardigrades are these water bears that can survive even the vacuum of space and heavy doses of radiation,” he says. “We’ve made cells in my laboratory that can actually take a tardigrade gene and use it in a human cell, and have this increase of radiation resistance — an 80% decrease in the [DNA] damage that we observe.”
+
+If scientists could use CRISPR-style gene-editing tools to insert the tardigrade gene into astronaut’s genome, that might head off one of his deaths. In his book, Mason lists other genetic techniques that could improve the vision of space travelers, boost their immune response, or make it easier for them to “hibernate” during a long trip
